@@ -1,5 +1,5 @@
 # DAR-Unet
-The codes for the work "A novel 3D unsupervised domain adaptation framework for cross-modality medical image segmentation"(https://ieeexplore.ieee.org/abstract/document/9741336). Meanwhile, the 5th solution in CrossMoDA 2021 challenge.
+The codes for the work "A novel 3D unsupervised domain adaptation framework for cross-modality medical image segmentation"(https://ieeexplore.ieee.org/abstract/document/9741336). Meanwhile, our work is the 5th solution in CrossMoDA 2021 challenge (https://arxiv.org/pdf/2201.02831.pdf), which did not utilize multiple nnUnet to ensemble results. 
 
 ## 1. Prepare data
 
