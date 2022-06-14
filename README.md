@@ -35,8 +35,10 @@ python stage_2_seg_train.py --name experiment --train_dataroot SOURCE2TARGET_PAT
 * [Holocrons](https://github.com/frgfm/Holocron)
 
 ## Citation
-If you have any questions, please send us email {kai.yao19, zixian.su20}@student.xjtlu.edu.cn
+If you have any questions, please send us email {kai.yao19, zixian.su20}@student.xjtlu.edu.cn.
+
 If you find our work is useful, please cite our work.
+
 ```bibtex
 @article{yao2022darunet,
   title={A novel 3D unsupervised domain adaptation framework for cross-modality medical image segmentation},
