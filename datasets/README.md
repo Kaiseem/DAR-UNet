@@ -1,6 +1,6 @@
 # Data Preparing
 
-##Image-to-image translation datasets for stage one
+## Image-to-image translation datasets for stage one
 
 1. Respacing the source and target domain images (both should be gray) with the same XY plane resolutions, and crop/pad to the size of [512, 512, d] in terms of [width, height, depth].
 
@@ -16,7 +16,7 @@
             └── B_imgs.npy
 ```
 
-##Semantic Segmentation datasets for stage two
+## Semantic Segmentation datasets for stage two
 1. Respacing the source and target domain images and labels (both should be gray) with the same XY plane resolutions, and make sure the spacing ratio is about [1, 1, 4] and the size is [512, 512, d] in terms of [width, height, depth].
 
 2. Normlizae each 3D images to [0, 1], rename the paired image and label to ensure the only name difference is 'img' and 'label', and save them as follows
