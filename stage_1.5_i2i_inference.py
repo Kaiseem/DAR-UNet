@@ -36,7 +36,7 @@ n_clusters=opts.k_means_clusters
 k_mean_results = KMeans(n_clusters=opts.k_means_clusters, random_state=9).fit_predict(styles)
 
 for f in os.listdir(opts.source_npy_dirpath):
-    imgs = np.load(os.path.join(opts.target_npy_dirpath, f))
+    imgs = np.load(os.path.join(opts.source_npy_dirpath, f))
     for k in range(n_clusters):
         nimgs = np.zeros_like(imgs, dtype=np.float32)
         idx=random.choice(np.argwhere(k_mean_results==k).flatten().tolist())
