@@ -47,10 +47,14 @@ If you find our work is useful, please cite our work.
   year={2022},
   publisher={IEEE}
 }
-@article{dorent2022crossmoda,
-  title={CrossMoDA 2021 challenge: Benchmark of Cross-Modality Domain Adaptation techniques for Vestibular Schwnannoma and Cochlea Segmentation},
+
+@article{dorent2023crossmoda,
+  title={CrossMoDA 2021 challenge: Benchmark of cross-modality domain adaptation techniques for vestibular schwannoma and cochlea segmentation},
   author={Dorent, Reuben and Kujawa, Aaron and Ivory, Marina and Bakas, Spyridon and Rieke, Nicola and Joutard, Samuel and Glocker, Ben and Cardoso, Jorge and Modat, Marc and Batmanghelich, Kayhan and others},
-  journal={arXiv preprint arXiv:2201.02831},
-  year={2022}
+  journal={Medical Image Analysis},
+  volume={83},
+  pages={102628},
+  year={2023},
+  publisher={Elsevier}
 }
 ```
