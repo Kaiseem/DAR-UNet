@@ -128,8 +128,8 @@ if __name__ == '__main__':
         netS.train()
         et=time.time()
         for iteration, train_A_data in enumerate(train_A_loader):
-            A_img=train_A_data['A_img'].cuda()
-            A_label=train_A_data['A_label'].cuda()
+            A_img=train_A_data['img'].cuda()
+            A_label=train_A_data['label'].cuda()
 
             optS.zero_grad()
             A_preds = netS(A_img)
