@@ -5,7 +5,7 @@ The codes for the work "A novel 3D unsupervised domain adaptation framework for 
 
 - Please go to ["./datasets/README.md"](datasets/README.md) for details.
 
-- The generated multi-style data for segmentation can be directly download here [Baidu_Pan](https://pan.baidu.com/s/1P5XAl_xW3oV42fefVLaMXQ?pwd=7so5)
+- The generated multi-style data for segmentation can be directly download here [Google Drive](https://drive.google.com/file/d/1s3IYf69P1WJBBH5YTFSXwoi7LT9gQUS3/view?usp=sharing) [Baidu_Pan](https://pan.baidu.com/s/1P5XAl_xW3oV42fefVLaMXQ?pwd=7so5)
 
 ## 2. Environment
 
