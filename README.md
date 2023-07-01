@@ -5,6 +5,8 @@ The codes for the work "A novel 3D unsupervised domain adaptation framework for 
 
 - Please go to ["./datasets/README.md"](datasets/README.md) for details.
 
+- The generated multi-style data for segmentation can be directly download here [Baidu_Pan](https://pan.baidu.com/s/1P5XAl_xW3oV42fefVLaMXQ?pwd=7so5)
+
 ## 2. Environment
 
 - Please prepare an environment with python=3.7, and then use the command "pip install -r requirements.txt" for the dependencies.
